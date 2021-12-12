@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Declaring functions/Division/out/
+/Topics/Declaring functions/Division/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/Multi-dimensional list/Accordance/out/
+/Topics/Multi-dimensional list/Accordance/out/production/classes/
+/Topics/Multi-dimensional list/Cube of zeros/out/
+/Topics/Multi-dimensional list/Cube of zeros/out/production/classes/

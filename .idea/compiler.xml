@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-kotlin.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Comparing_sums.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Count_occurrences.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Number_in_a_set.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-The_index_of_the_first_max.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-For_loop_and_lists-Triples.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Accordance.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Cube_of_zeros.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Shapeshifter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multi-dimensional_list-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_number_format_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_string_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Braking_distance.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Complex_handling.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-The_Answer_is.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
